@@ -1,0 +1,15 @@
+# =====================================
+# GitHub Linguist Settings for sarambaDev
+# =====================================
+
+# ✅ Pastikan file inti dihitung sebagai bahasa utama
+*.php linguist-detectable=true
+*.html linguist-detectable=true
+*.js linguist-detectable=true
+*.css linguist-detectable=true
+
+# 📦 Tandai vendor/asset pihak ketiga sebagai vendored
+# (AdminLTE, Bootstrap, plugin, dll.)
+public/assets/dist/* linguist-vendored
+public/assets/plugins/* linguist-vendored
+public/assets/vendor/* linguist-vendored
