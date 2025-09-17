@@ -1,4 +1,17 @@
-# 📌 PHP Native MVC - Gabut Jadi Serius
+<p align="center">
+  <img src="https://picsum.photos/600/200" alt="Banner Project" width="650">
+</p>
+
+
+
+<h1 align="center">📌 PHP Native MVC - Gabut Jadi Serius</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.0-blue?logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/AdminLTE-Template-success" alt="AdminLTE">
+  <img src="https://img.shields.io/badge/Status-Experimental-yellow" alt="Status">
+</p>
 
 Projek ini dibuat dengan **PHP Native** sejak awal.  
 Awalnya saya sedang mencoba membangun project sederhana, lalu berdiskusi dengan **AI** untuk membantu menyusun struktur yang lebih terorganisir.
@@ -104,7 +117,7 @@ php-mvc/
 
       ```
 
-    - Atau import file SQL ( `php-mvc.sql`).
+    - Atau import file SQL ([`php-mvc.sql`](./php-mvc.sql))
 
 3.  **Sesuaikan konfigurasi database**  
     Edit file `app/config/config.php` dengan kredensial database lokal kamu:
